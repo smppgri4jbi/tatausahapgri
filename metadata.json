@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Administrasi Surat SMP & Sinkronisasi Spreadsheet",
+  "description": "Aplikasi pembuatan dan pencetak surat resmi administrasi sekolah SMP lengkap dengan kop dinas, nomor surat otomatis, preview cetak A4, dan pencatatan arsip ke Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
